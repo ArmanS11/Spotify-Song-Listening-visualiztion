@@ -10,4 +10,4 @@ This project visualizes your Spotify listening history using Streamlit and the S
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/listening-visualization.git
+   git clone [https://github.com/your-username/listening-visualization.git](https://github.com/ArmanS11/Spotify-Song-Listening-visualiztion.git)
